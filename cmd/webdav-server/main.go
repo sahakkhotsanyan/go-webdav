@@ -6,8 +6,6 @@ import (
 	"log"
 	"net/http"
 	"os"
-
-	"github.com/emersion/go-webdav"
 )
 
 func main() {

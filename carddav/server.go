@@ -12,8 +12,7 @@ import (
 	"strings"
 
 	"github.com/emersion/go-vcard"
-	"github.com/emersion/go-webdav"
-	"github.com/emersion/go-webdav/internal"
+	"github.com/sahakkhotsanyan/go-webdav/internal"
 )
 
 type PutAddressObjectOptions struct {
