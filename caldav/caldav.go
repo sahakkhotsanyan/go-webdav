@@ -8,6 +8,8 @@ import (
 	"time"
 
 	"github.com/emersion/go-ical"
+
+	"github.com/sahakkhotsanyan/go-webdav"
 	"github.com/sahakkhotsanyan/go-webdav/internal"
 )
 
